@@ -8,7 +8,7 @@
 
 ## :dart: Objetivo del proyecto
 
-![video](./DEMO ADALABERS.mp4)
+![video](/DEMO ADALABERS.mp4)
 
 
 
