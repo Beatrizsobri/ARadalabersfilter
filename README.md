@@ -15,7 +15,7 @@ In order to use the filter as you see in the Gif, you have to:
 3) Open the link in you mobile phone-> https://t.co/AFVaIdyVrb?amp=1
 
 ## :computer: How to see the project
-
+Open the project with the program: Spark AR Studio. 
 
 ## :raising_hand: Personal' goals
 
