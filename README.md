@@ -19,11 +19,11 @@ Open the project with the program: Spark AR Studio.
 
 If you do not have it, you can download it free here -- >> https://sparkar.facebook.com/ar-studio/download/
 
-## :raising_hand: Personal' goals
+## :raising_hand: Personal goals
 
 
 
-## :dart: Project' goals
+## :dart: Project goals
 
 
 
