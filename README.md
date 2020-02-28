@@ -8,7 +8,7 @@
 
 ## :dart: Objetivo del proyecto
 
-![video](../DEMO.GIF)
+![video](./demo/DEMO.GIF)
 
 
 
